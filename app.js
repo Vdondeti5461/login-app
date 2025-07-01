@@ -1,10 +1,3 @@
-let result = "vamsi";
-
-if (result === "vamsi") {
-  console.log("hello vamsi");
+function login() {
+  console.log("Login");
 }
-
-if (result === "vamsi") {
-  console.log("hello vamsi");
-}
-

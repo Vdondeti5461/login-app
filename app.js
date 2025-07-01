@@ -1,4 +1,4 @@
-let result = "name";
+let result = "vamsi";
 
 if (result === "vamsi") {
   console.log("hello vamsi");
